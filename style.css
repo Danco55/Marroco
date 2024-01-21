@@ -9,7 +9,7 @@ html {
   }
   
   @media only screen and (max-width: 680px) {
-    html {
+    html { 
       font-size: 14px;
     }
   }
